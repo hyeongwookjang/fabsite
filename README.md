@@ -1,9 +1,9 @@
-Link: [Github][githublink]
+Link: [githublink][https://gist.github.com/ihoneymon/652be052a0727ad5960]
 
-[githublink]: https://gist.github.com/ihoneymon/652be052a0727ad5960 "go MD"
+[githublink][https://gist.github.com/ihoneymon/652be052a0727ad5960]
 
 
-마크다운 작성법 링크
+마크다운 작성법 참조
 https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 # fabsite 만들기
