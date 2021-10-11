@@ -1,6 +1,6 @@
-Link: [githublink][https://gist.github.com/ihoneymon/652be052a0727ad5960]
+Link: [마크다운 작성법][마크다운 작성법]
 
-[githublink][https://gist.github.com/ihoneymon/652be052a0727ad5960]
+[마크다운 작성법]: https://gist.github.com/ihoneymon/652be052a0727ad59601 "Go github MD command"
 
 
 마크다운 작성법 참조
