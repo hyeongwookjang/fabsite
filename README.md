@@ -1,5 +1,4 @@
-Link: [마크다운 작성법][마크다운 작성법]
-[마크다운 작성법]: https://gist.github.com/ihoneymon/652be052a0727ad59601 "Go github MD command"
+[마크다운 작성법]: https://gist.github.com/ihoneymon/652be052a0727ad59601 
 
 # fabsite 만들기
 빠르게 원하는 웹사이트 만들기
