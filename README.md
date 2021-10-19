@@ -194,6 +194,6 @@ class Profile(models.Model):
     #
     
 python manage.py makemigrations
-공간을 만든다
+마이그레이션 공간을 만든다
 python manage.py migrate
 옮긴다
